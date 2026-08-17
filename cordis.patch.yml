@@ -1,0 +1,3 @@
+- insert:
+    - id: cost-tracker
+      name: 'dsh-cost-tracker'
